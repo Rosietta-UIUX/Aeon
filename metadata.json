@@ -1,0 +1,7 @@
+{
+  "name": "Aeon",
+  "description": "A premium digital time capsule for your future self. Preserve memories, letters, and predictions in a secure, timeless vault.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
